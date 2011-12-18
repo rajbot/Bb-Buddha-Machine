@@ -15,5 +15,5 @@ Some awesome people have taken the Bb Buddha Machine and modified it to make new
 
 * [Bb Buddha Machine](http://tikirobot.net/BbBuddha/)
 * [Dynamic Buddha Machine](http://progsoc.org/~curious/software/art/bbdynamic/BbBuddha.html) - a version by curiousjapan that dynamically loads YouTube videos tagged with "In Bb 2.0" or any other phrase.
-* [noiZe vieW](http://noise-view.bplaced.net/) - a version by Peter He using his own recordings of his circuit-bent instruments.
+* [noiZe vieW](http://noise-view.bplaced.net/) - a version by Peter He&szlig; using his own recordings of his circuit-bent instruments.
 
