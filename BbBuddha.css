@@ -1,0 +1,23 @@
+body {
+    margin:     0;
+    text-align: center;
+}
+
+#container {
+    margin:     0 auto;
+    width:      880px;
+}
+
+#controls {
+    font-size:  16px;
+    margin:     10px 0px;
+    text-align: left;
+}
+
+.ytobj {
+    float:  left;
+    height: 182px;
+    margin: 0;
+    padding:0;
+    width:  220px;
+}
