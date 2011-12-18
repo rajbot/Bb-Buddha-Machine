@@ -1,7 +1,7 @@
 Bb Buddha Machine
 =================
 
-I went to bed at 2am last night. The alarm went off at 6am this morning . It was waaaay too early to do much other than check the internets, so that's what I did, and found [inbflat.net](http://inbflat.net/)inbflat.net. This site is magic.
+I went to bed at 2am last night. The alarm went off at 6am this morning . It was waaaay too early to do much other than check the internets, so that's what I did, and found [inbflat.net](http://inbflat.net/). This site is magic.
 
 Eventually I realized I had to stop playing with it and do some work, but I wanted to keep listening. So I made [the Bb Buddha Machine](http://tikirobot.net/BbBuddha).
 
